@@ -14,6 +14,6 @@ int main(){
     area = panjang * lebar; 
 
     printf("Area = %d\n", area); 
-
     return 0;
 }
+
